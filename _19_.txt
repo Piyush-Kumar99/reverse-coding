@@ -1,0 +1,26 @@
+Enter a string : hello
+10
+Enter a string : world
+19
+Enter a string : hi
+1
+Enter a string : h
+0
+Enter a string : 5
+0
+Enter a string : 13
+2
+Enter a string : 05
+5
+Enter a string : 50
+5
+Enter a string : ab
+1
+Enter a string : baz
+25
+Enter a string : az
+25
+Enter a string : tryu
+7
+Enter a string : akshit
+19
